@@ -20,7 +20,9 @@ Este é um site que funciona como uma pokédex, ele exibe as seguintes informaç
 
 <h2>Tecnologias usadas:</h2>
 <div>
-- `Javascript`
-- `HTML`
-- `CSS`
+- Javascript
+ <br>
+- HTML
+  <br>
+- CSS
 </div>
